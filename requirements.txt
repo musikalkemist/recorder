@@ -1,1 +1,6 @@
-PyAudio==0.2.11
+
+# Remove the below package from requirements.txt if not using Windows Operating System
+pyaudiowpatch
+
+
+boto3
